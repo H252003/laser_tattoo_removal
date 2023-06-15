@@ -1,0 +1,25 @@
+# LASER Tattoo Removal Device Prototype
+
+This project aims to develop a prototype for a LASER tattoo removal device utilizing basic electrical and optical components. The device features a stepper motor that holds a stand, allowing it to move in a 360-degree plane. The stand also has a servo motor that controls the movement of a mirror along the y-axis. When the LASER beam reflects off the mirror, it creates a customizable targeting plane. The device also includes a range of sensors and tools that enable precise control over the laser light parameters during tattoo removal.
+
+## Background
+
+The goal of tattoo removal is to break down permanent ink particles into smaller particles that your immune system can safely remove from your body. The parameters of laser light in tattoo removal include wavelength, pulse duration, fluence, and spot size. The appropriate wavelength should be used based on the color and type of tattoo pigment. For example, the QS ruby laser (694 nm) is effective for black and blue colors. Pulse duration should be in the nanosecond to picosecond range to target small structures, while excessive fluence should be avoided to prevent nonspecific destruction of surrounding tissue. Spot size should be adjusted based on the size and location of the tattoo.
+
+To achieve the desired laser light parameters, the LASER tattoo removal device prototype includes a range of sensors and tools. The wavelength of the laser light is controlled using a tunable laser source, which allows for the selection of the appropriate wavelength for the specific tattoo pigment. The pulse duration of the laser light is controlled using a pulse generator, which generates ultra-short pulses in the nanosecond to picosecond range. The fluence of the laser light is controlled using a variable attenuator, which adjusts the energy of the laser pulses. The spot size of the laser light is controlled using a beam expander, which adjusts the size of the laser beam.
+
+Tattoo pigments are intended to be placed in the dermis and are made of various materials, including metals, organic dyes, and plastics. These pigments are dispersed extracellularly or intracellularly within immune cells and fibroblasts. Pigments found in common tattoo colors including black, blue, green, red, yellow, and white.
+
+The interactions between laser and tattoo pigments vary depending on the type and color of the pigment. QS lasers work by delivering high-intensity laser energy in ultra-short pulses, which is absorbed by the tattoo pigment. This causes destruction of pigment-containing cells and fragmentation of the target pigments. In addition to absorption, laser light can also be reflected, scattered, or transmitted when it interacts with skin tissue.
+
+## Methodology
+
+To test the LASER tattoo removal device prototype, we will use pig skin with tattoos that have been made using the common tattoo colors. The tattooed skin will be mounted onto the stand of the LASER tattoo removal device prototype, and the laser light parameters will be adjusted based on the color and type of tattoo pigment. The laser light will then be applied to the tattooed skin, and the breakdown of the pigment particles will be monitored using microscopy.
+
+## References
+
+- Kent, K. M., & Graber, E. M. (2012). Laser Tattoo Removal: A Review. Dermatologic Surgery, 38(1), 1–13. https://doi.org/10.1111/j.1524-4725.2011.02187.x
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
