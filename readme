@@ -1,4 +1,11 @@
-# LASER Tattoo Removal Device Prototype
+- [Introduction](#LASER Tattoo Removal Device Prototype)
+- [Background](#Background)
+- [Methodology](#Methodology)
+- [References](#References)
+- [License](#License)
+
+
+## LASER Tattoo Removal Device Prototype
 
 This project aims to develop a prototype for a LASER tattoo removal device utilizing basic electrical and optical components. The device features a stepper motor that holds a stand, allowing it to move in a 360-degree plane. The stand also has a servo motor that controls the movement of a mirror along the y-axis. When the LASER beam reflects off the mirror, it creates a customizable targeting plane. The device also includes a range of sensors and tools that enable precise control over the laser light parameters during tattoo removal.
 
